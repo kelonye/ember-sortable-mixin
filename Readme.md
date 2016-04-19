@@ -1,8 +1,8 @@
-Lifted from https://github.com/emberjs/ember-legacy-controllers/blob/master/addon/utils/sortable-mixin.js.
+Emulate `ArrayController` in Ember 2.x.
 
-Example:
+### Example:
 
-```
+```js
 
 var sortable = require('ember-sortable-mixin');
 
