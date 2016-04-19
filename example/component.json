@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "dependencies": {
+    "kelonye/ember-sortable-mixin": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "jhbs": [
+    "template"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ember-sortable-mixin",
+  "version": "2.5.0",
+  "license": "MIT",
+  "dependencies": {
+    "kelonye/ember": "2.5.0"
+  },
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "styles": [
+  ]
+}
