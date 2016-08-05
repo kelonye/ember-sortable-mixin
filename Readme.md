@@ -8,7 +8,7 @@ var sortable = require('ember-sortable-mixin');
 
 App.ArrayController = Em.Controller.extend(sortable.Array, {
 
-  // access sorted content as .sortableMixin 
+  // access sorted content as .sortedModel
     
   model: [],
   sortProperties: ['a'],
