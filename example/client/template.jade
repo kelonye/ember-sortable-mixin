@@ -1,0 +1,13 @@
+h3 initial
+
+ul
+  | {{#each model as |c|}}
+  li {{c.char}}
+  | {{/each}}
+
+h3 sorted
+
+ul
+  | {{#each sortedModel as |c|}}
+  li {{c.char}}
+  | {{/each}}

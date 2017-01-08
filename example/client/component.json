@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "dependencies": {
+  },
+  "local": [
+    "ember-sortable-mixin"
+  ],
+  "paths": [
+    ".",
+    "../../.."
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "jhbs": [
+    "template"
+  ]
+}
